@@ -1,0 +1,2 @@
+include ':app', ':roomdatabase', ':screentime', ':location_main', ':geofence'
+rootProject.name='Modularization'
